@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harmanjitsingh22
-- 👀 I’m interested in python and java programming.
+- 👀 I have learnt java, C, C++ and now learning python in University of Fraser Valley.
 - 🌱 I’m currently studying Computer Information systems.
 
 <!---
